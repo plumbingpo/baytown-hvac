@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://baytownhvacco.com/sitemap.xml
